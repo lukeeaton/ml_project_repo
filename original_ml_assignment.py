@@ -725,11 +725,12 @@ plt.show()
 
 print(mean(svm_auc_scores).round(2))
 
-#%% Writing output from SVM (the best-performing model) to a CSV file
-with open('svm_output.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
-    for row in range(labelled_test_pred.shape[0]):
-        writer.writerow([test_ids[row], labelled_test_pred[row]])
+# #%% Writing output from SVM (the best-performing model) to a CSV file
+# with open('svm_output.csv', 'w', newline='') as f:
+#     writer = csv.writer(f)
+#     for row in range(labelled_test_pred.shape[0]):
+#         writer.writerow([test_ids[row], labelled_test_pred[row]])
+
 
 
 
