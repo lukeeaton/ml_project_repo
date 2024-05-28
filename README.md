@@ -5,7 +5,7 @@ Improvements include:
 - Neater data visualisation using Seaborn.
 - Preprocessor implementation.
 - Implementing more models.
-- Neural network creation using Keras.
+- Creating the neural network myself, using Keras, rather than using an example given to us during lab sessions.
 - Example of feature engineering.
 - Learning how to use GitHub for version control.
 - Learning how to use Jupyter Notebook.
