@@ -6,6 +6,7 @@ Improvements include:
 - Preprocessor implementation.
 - Implementing more models.
 - Creating the neural network myself, using Keras, rather than using an example given to us during lab sessions.
+- Defined function for easily reproducible model evaluation.
 - Example of feature engineering.
 - Learning how to use GitHub for version control.
 - Learning how to use Jupyter Notebook.
